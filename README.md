@@ -8,15 +8,22 @@
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
+[![alt text][6.1]][6]
+[![alt text][7.1]][7]
 
 [1.1]: https://img.icons8.com/ios-glyphs/30/000000/twitter-squared.png
 [2.1]: https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png
 [3.1]: https://img.icons8.com/ios-glyphs/30/000000/facebook.png
 [4.1]: https://img.icons8.com/ios-glyphs/30/000000/linkedin.png
 [5.1]: https://img.icons8.com/ios-glyphs/30/000000/whatsapp.png
+[6.1]: https://img.icons8.com/ios-glyphs/30/000000/github.png
+[7.1]: https://img.icons8.com/ios-glyphs/30/000000/filled-message.png
 
 [1]: https://www.twitter.com/v1nc1d4
 [2]: https://www.instagram.com/v1nc1d4
 [3]: https://www.facebook.com/v1nc1d4
 [4]: https://www.linkedin.com/in/anurag-m-695252187
 [5]: https://wa.me/message/LK6AFWK4XMNUP1
+[6]: https://github.com/v1nc1d4
+[7]: mailto:anuragam1111@gmail.com
+
