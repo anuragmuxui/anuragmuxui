@@ -2,3 +2,21 @@
   
 ![Anurag M's github stats](https://github-readme-stats.vercel.app/api?username=v1nc1d4&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1nc1d4&hide=&layout=compact&theme=dark)
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+
+[1.1]: https://img.icons8.com/ios-glyphs/30/000000/twitter-squared.png
+[2.1]: https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png
+[3.1]: https://img.icons8.com/ios-glyphs/30/000000/facebook.png
+[4.1]: https://img.icons8.com/ios-glyphs/30/000000/linkedin.png
+[5.1]: https://img.icons8.com/ios-glyphs/30/000000/whatsapp.png
+
+[1]: https://www.twitter.com/v1nc1d4
+[2]: https://www.instagram.com/v1nc1d4
+[3]: https://www.facebook.com/v1nc1d4
+[4]: https://www.linkedin.com/in/anurag-m-695252187
+[5]: https://wa.me/message/LK6AFWK4XMNUP1
