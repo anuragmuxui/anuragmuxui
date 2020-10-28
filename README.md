@@ -23,7 +23,7 @@
 [1]: https://www.twitter.com/v1nc1d4
 [2]: https://www.instagram.com/v1nc1d4
 [3]: https://www.facebook.com/v1nc1d4
-[4]: https://www.linkedin.com/in/anurag-m-695252187
+[4]: https://www.linkedin.com/in/v1nc1d4
 [5]: https://wa.me/message/LK6AFWK4XMNUP1
 [6]: https://github.com/v1nc1d4
 [7]: mailto:anuragam1111@gmail.com
