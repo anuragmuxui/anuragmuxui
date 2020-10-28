@@ -1,7 +1,7 @@
 # Peek-a-boo!🤓 I'm Anurag M👋
 
 <p align="center">
-<br><img src="https://github.com/v1nc1d4/v1nc1d4/blob/main/code.gif" width="280px"><br><br>
+<br><img src="https://github.com/v1nc1d4/v1nc1d4/blob/main/code.gif" width="250px"><br><br>
 </p>
 
 ![Anurag M's github stats](https://github-readme-stats.vercel.app/api?username=v1nc1d4&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
