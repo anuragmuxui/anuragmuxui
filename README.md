@@ -19,7 +19,7 @@
 [![alt text][6.1]][6]
 [![alt text][7.1]][7]
 
-[1.1]: https://img.icons8.com/ios-glyphs/30/000000/twitter-squared.png
+[1.1]: https://img.icons8.com/ios-glyphs/30/000000twitter-squared.png
 [2.1]: https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png
 [3.1]: https://img.icons8.com/ios-glyphs/30/000000/facebook.png
 [4.1]: https://img.icons8.com/ios-glyphs/30/000000/linkedin.png
