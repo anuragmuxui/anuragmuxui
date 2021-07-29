@@ -33,5 +33,5 @@
 [4]: https://www.linkedin.com/in/v1nc1d4
 [5]: https://wa.me/message/LK6AFWK4XMNUP1
 [6]: https://github.com/v1nc1d4
-[7]: mailto:anuragam1111@gmail.com
+[7]: mailto:hello@vincida.me
 
