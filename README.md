@@ -11,6 +11,8 @@
  <img src="https://github-profile-trophy.vercel.app/?username=devded&theme=flat&row=1" alt="v1nc1d4" />
 </p>
 
+[![@v1nc1d4's Holopin board](https://holopin.me/v1nc1d4)](https://holopin.io/@v1nc1d4)
+
 # Don't be shy😊, ping me!📱
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
