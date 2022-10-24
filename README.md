@@ -4,15 +4,6 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=v1nc1d4" alt="v1nc1d4" /> </p>
 
-![Anurag M's github stats](https://github-readme-stats.vercel.app/api?username=v1nc1d4&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1nc1d4&hide=&layout=compact&theme=dark)
-
-<p align="left">
- <img src="https://github-profile-trophy.vercel.app/?username=devded&theme=flat&row=1" alt="v1nc1d4" />
-</p>
-
-[![@v1nc1d4's Holopin board](https://holopin.me/v1nc1d4)](https://holopin.io/@v1nc1d4)
-
 # Don't be shy😊, ping me!📱
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
