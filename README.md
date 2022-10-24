@@ -2,7 +2,6 @@
 <p align="center">
 <br><img src="https://github.com/v1nc1d4/v1nc1d4/blob/main/code.gif" width="280px"><br><br>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=v1nc1d4" alt="v1nc1d4" /> </p>
 
 # Don't be shy😊, ping me!📱
 [![alt text][1.1]][1]
