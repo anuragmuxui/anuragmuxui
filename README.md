@@ -20,6 +20,8 @@ Welcome to my GitHub! I'm a passionate Product and UX Designer focused on crafti
 - Cybersecurity & Capture the Flag (CTF) events
 - Reading (tech, design, psychology, sci-fi)
 - Experimenting with new design methodologies & tools
+- Social work & volunteering for causes I care about
+- Climate change action and sustainability
 - Always up for learning something new!
 
 ---
@@ -36,6 +38,8 @@ I believe in empathetic, inclusive design and love bringing ideas to life by ite
 
 - I love CTF competitions and exploring the world of cybersec
 - Avid reader across genres
+- Actively involved in social work and volunteering for positive change
+- Passionate about climate change action and making a difference
 - Always on the lookout for the next big thing to learn
 
 ---
