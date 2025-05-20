@@ -34,14 +34,26 @@ I believe in empathetic, inclusive design and love bringing ideas to life by ite
 
 ---
 
+## 🌍 Beyond Design
+
+- Actively involved in social work and volunteering for positive change
+- Passionate about climate change action and sustainability
+- Always looking for ways to make an impact beyond the screen
+
+---
+
 ## 🧑‍💻 Fun Facts
 
 - I love CTF competitions and exploring the world of cybersec
 - Avid reader across genres
-- Actively involved in social work and volunteering for positive change
-- Passionate about climate change action and making a difference
 - Always on the lookout for the next big thing to learn
 
 ---
+
+## 🤝 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/anuragm-ux)
+- [Twitter/X](https://twitter.com/anuragmuxui)
+- [Email](mailto:anuragm@duck.com)
 
 Feel free to connect, collaborate, or just say hi!
